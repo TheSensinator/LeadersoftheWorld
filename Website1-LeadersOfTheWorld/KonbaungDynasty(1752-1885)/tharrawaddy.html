@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Tharrawaddy, 8th Konbaung King of Burma</title>
+  <link href='https://mmwebfonts.comquas.com/fonts/?font=zawgyi'
+  rel="stylesheet" />
+  <link href="C:\Users\joshu\OneDrive\Documents\Website1-LeadersOfTheWorld\leaders.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <div>
+  </div>
+
+  <div>
+    <h1><a id="earlylife">Early Life</a></h1>
+      <h2>Birth</h2>
+      <h2>Early Life</h2>
+    <hr>
+    <h1><a id="reign">Reign</a></h1>
+      <h2>Accession</h2>
+      <h2>Reforms</h2>
+    <hr>
+    <h1><a id="laterlife">Life After Reign</a></h1>
+      <h2>Abdication</h2>
+      <h2>Exile</h2>
+    <hr>
+    <h1><a id="family">Family Tree</a></h1>
+    <hr>
+    <h1><a id="legacy">Legacy</a></h1>
+    <hr>
+  </div>
+  <div>
+    <img id="img" class="map">
+    <br>
+    <input class="timeline" id="valR" type="range" min="1837" max="1846" value="0"
+    step="1" oninput="showVal(this.value)" onchange="showVal(this.value)" />
+    <span class="yearlabel" id="range">0</span>
+  </div>
+
+<script>
+    var val = document.getElementById("valR").value;
+        document.getElementById("range").innerHTML=val;
+        document.getElementById("img").src = val + "my.png";
+        function showVal(newVal){
+          document.getElementById("range").innerHTML=newVal;
+          document.getElementById("img").src = newVal+ "my.png";
+        }
+</script>
+</body>
+
+</html>

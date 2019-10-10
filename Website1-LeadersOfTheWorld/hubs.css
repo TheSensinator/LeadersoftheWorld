@@ -1,0 +1,55 @@
+body {
+  background: linear-gradient(to bottom left, #ff0000 0%, #ff6699 100%) 
+  fixed;
+}
+h1 {
+  color: blue;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+}
+h2 {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+h3 {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+img {
+  
+}
+li {
+  font-family:"Comic Sans MS", cursive, sans-serif;
+}
+table, td, th {
+  border: 2px solid black;
+  border-collapse: collapse;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+td, th {
+  padding: 5px;
+}
+th {
+  color: blue;
+}
+.afpfl {
+  background-color: rgb(218,45,28);
+}
+.bspp {
+  background-color: rgb(255,0,0);
+}
+.burmese {
+  font-family:Zawgyi-One;
+}
+.nld {
+  background-color: rgb(236,27,35);
+}
+.usdp {
+  background-color: rgb(0,106,68);
+}

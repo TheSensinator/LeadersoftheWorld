@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Monarchs of Lan Xang</title>
+  <link href="C:\Users\joshu\OneDrive\Documents\Website1-LeadersOfTheWorld\hubs.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <p><a href="C:/Users/joshu/OneDrive/Documents/Website1-LeadersOfTheWorld/hub_laos.html">Return to Laos hub</a></p>
+
+  <h1>Monarchs of the Kingdom of Lan Xang</h1>
+
+  <h2>1354 - 1707</h2>
+  <hr>
+  <p>Succeeded by: <a href="C:/Users/joshu/OneDrive/Documents/Website1-LeadersOfTheWorld/LuangPhrabangKingdom(1707-1949)/hub_luangphrabang.html">Kingdom of Luang Phrabang (1707-1949)</a></p>
+  Succeeded by: <a href="C:/Users/joshu/OneDrive/Documents/Website1-LeadersOfTheWorld/VientianeKingdom(1707-1828)/hub_vientiane.html">Kingdom of Vientiane (1707-1828)</a></p>
+  Succeeded by: <a href="C:/Users/joshu/OneDrive/Documents/Website1-LeadersOfTheWorld/ChampasakKingdom(1713-1946)/hub_champasak.html">Kingdom of Champasak (1713-1946)</a></p>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Image</th>
+      <th>Lifespan</th>
+      <th>Reign</th>
+      <th>Relation to Previous Ruler</th>
+    </tr>
+    <tr>
+      <td>Fa Ngum (Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td>Founded kingdom</td>
+    </tr>
+    <tr>
+      <td>Samsenethai (Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td>Son of Fa Ngum</td>
+    </tr>
+    <tr>
+      <td>Lan Kham Deng (Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td>Son of Samsenethai</td>
+    </tr>
+    <tr>
+      <td>Phommathat (Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Yukhon (Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Khon Kham (Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kham Tam Sa (Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lusai (Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Khai Bua Ban (Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kham Keut (Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nang Keo Phimpha (Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Chakkaphat Phaen Phaeo (Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Souvanna Banlang (Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>La Sen Thai (Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Somphou (Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Visoun (Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>(Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>(Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>(Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>(Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>(Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>(Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>(Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>(Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>(Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>(Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>(Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>(Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>(Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>(Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>(Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>(Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>(Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>(Lao: )</td>
+      <td><img src=""></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</body>
